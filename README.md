@@ -1,5 +1,12 @@
 # Greater Flavor Mod (GFM)
 
+> This fork pins GFM's "The Africa Update" (`v3.0`) and incrementally replaces
+> selected high-value systems with visible
+> [Smedley](https://github.com/adrunkhuman/smedley_kernel) Lua. Each port adds
+> its script and removes the equivalent Clausewitz implementation atomically;
+> untouched GFM behavior remains unchanged. The project is experimental and is
+> not the upstream GFM release.
+
 This mod is based on HFM but greatly expands on it, adding bountiful flavor, provinces, historical accuracy changes, quality of life improvements and more.
 
 IMPORTANT: If you downloaded from Github and for some reason the mod is broken, either:
